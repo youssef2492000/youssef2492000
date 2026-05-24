@@ -1,4 +1,6 @@
-![image alt](https://github.com/youssef2492000/youssef2492000/blob/a91a0bdad8dfe49572dd7709624ae72d135bc9f7/mygithub.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/youssef2492000/youssef2492000/a91a0bdad8dfe49572dd7709624ae72d135bc9f7/mygithub.png" width="500">
+</p>
 
 <div align="center">
   <a href="https://github.com/Synaptara?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/badge/STARS-22-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
